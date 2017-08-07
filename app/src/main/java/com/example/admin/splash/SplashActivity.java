@@ -16,7 +16,7 @@ public class SplashActivity extends Activity {
             public void run() {
 
                 try {
-                    sleep(7000);
+                    sleep(1000);
                 } catch (InterruptedException e) {
                     e.printStackTrace();
                 }finally {startActivity(new Intent(SplashActivity.this,MainActivity.class));

@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Unindra</string>
+    <string name="action_settings">Settings</string>
 </resources>
